@@ -1,0 +1,41 @@
+city,continent,code
+London,EU,LHR
+Paris,EU,CDG
+Amesterdam,EU,AMS
+Berlin,EU,BER
+Istanbul,EU,IST
+Rome,EU,FCO
+Copenhagen,EU,CPH
+Prague,EU,PRG
+Athens,EU,ATH
+Moscow,EU,SVO
+Beijing,AS,PEK
+Dubai,AS,DXB
+Tokyo,AS,HND
+Delhi,AS,DEL
+Hanoi,AS,HAN
+Bangkok,AS,BKK
+Kuala Lumpur,AS,KUL
+Singapore,AS,SIN
+Montreal,NA,YUL
+Toronto,NA,YYZ
+New York,NA,JFK
+Miami,NA,MIA
+New Orleans,NA,MSY
+Las Vegas,NA,LAS
+San Francisco,NA,SFO
+Los Angeles,NA,LAX
+Mexico,NA,MEX
+Sao Paulo,SA,GRU
+Santiago,SA,SCL
+Lima,SA,LIM
+Bogota,SA,BOG
+Buenos Aires,SA,EZE
+Johannesburg,AF,JNB
+Cairo,AF,CAI
+Casablanca,AF,CMN
+Nairobi,AF,NBO
+Tunis,AF,TUN
+Sydney,AU,SYD
+Melbourne,AU,MEL
+Auckland,AU,AKL
